@@ -1,0 +1,56 @@
+.margetop10{
+    margin-top: 10px;
+}
+.margetop20{
+    margin-top: 20px
+}
+.margetop30{
+    margin-top: 30px;
+}
+.margetop40{
+    margin-top: 40px;
+}
+.margetop50{
+    margin-top: 50px;
+}
+.margetop60{
+    margin-top: 60px;
+}
+.margetop200{
+    margin-top: 200%;
+}
+.no-margin{
+    margin: 0px;
+}
+.no-padding{
+    padding: 0px;
+}
+.taille50{
+    width: 50px;
+    height: 50px;
+}
+.taille100{
+    width: 100px;
+    height: 100px;
+}
+.taille200{
+    width: 200px;
+    height: 200px;
+}
+.radio,.checkbox{
+    margin-left: 20px;
+}
+.divErr{
+    display: none;
+}
+
+
+/*.glyphicon {
+    padding-top: 1px;
+    padding-left: 10px;
+    font-size: 2px;
+    padding: 10px;
+    height: 10px;
+    margin-left: auto;
+
+}*/
